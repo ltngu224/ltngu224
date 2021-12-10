@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Liem N
+- 👋 Hi, I’m Liem N.
+  - I'm an undergrad at UW-Seattle
 - 👀 I’m interested in 
-  - Scientific Computing
+  - Learning more about scientific computing
 - 🌱 I’m currently learning 
   - Matlab
   - Python
